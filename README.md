@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ToroxJake
 - 👀 I’m interested in tech and development.
 - 🌱 I’m currently learning python, web3 and blockchain development
-- 💞️ I’m looking to collaborate on any web development project that will ignite my interest
+- 💞️ I’m looking to ... (nothing at the moment, still engaged)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Gwapo ko, ingon akong mama
 
