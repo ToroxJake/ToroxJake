@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python, web3 and blockchain development
 - 💞️ I’m looking to collaborate on any web development project that will ignite my interest
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Gwapo ko
+- ⚡ Fun fact: Gwapo ko, ingon akong mama
 
 <!---
 ToroxJake/ToroxJake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
